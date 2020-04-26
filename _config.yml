@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Y C."
 
 # A description of your site for meta tag, search engine results.
 description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
@@ -24,20 +24,18 @@ url: "https://scriptor-jekyll.netlify.com"
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: "UA-162704821-1"
 
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
+#  - text: About
+#    url: /about/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - text: Github
+    url: https://github.com/patrick-ytchou/Data-Science
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
