@@ -115,7 +115,7 @@ Inline `code` has `back-ticks around` it.
 
 [Terraforming](https://vimeo.com/153339497) from [Studio Swine](https://vimeo.com/studioswine) on [Vimeo](https://vimeo.com)
 
-<p><iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/iWowJBRMtpc" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
 ## Full Width Image
 
